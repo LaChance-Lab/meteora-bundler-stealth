@@ -14,10 +14,8 @@ https://solscan.io/tx/3nuzhEe3urT5CEnQQZZatWZ369uXDdatS6ha5ZLS4Rv9rTsPfyZot3EHYq
 
 ## 📞 Contact
 
-<div align="center">
+<div align="left">
 
 ### 💬 Get in Touch
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lachancelab)
-
-**Telegram:** [t.me/lachancelab](https://t.me/lachancelab)
