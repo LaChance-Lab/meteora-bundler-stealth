@@ -12,6 +12,9 @@ https://solscan.io/tx/3bVoftoWW616Ja5ahKh8vyYZxv4qQVcRPARP4xZryEpzB6bKPVAm1D9q3P
 Buy:
 https://solscan.io/tx/3nuzhEe3urT5CEnQQZZatWZ369uXDdatS6ha5ZLS4Rv9rTsPfyZot3EHYq4Ku5rGz7y7zksvVYgiLTBkszeFZuBp
 
+<img width="998" height="896" alt="image" src="https://github.com/user-attachments/assets/0b8f41f5-673e-4010-a11e-4cdff142ffba" />
+
+
 ## 📞 Contact
 
 <div align="left">
